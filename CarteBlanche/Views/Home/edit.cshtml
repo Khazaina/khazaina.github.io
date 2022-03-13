@@ -1,0 +1,72 @@
+﻿@model CarteBlanche.Models.Task;
+
+@*!--form--!*@
+<div class="container" style="margin:50px">
+    <h2>Update Task</h2>
+
+    <form action="/Home/saveupdate" method="post" class="needs-validation" novalidate>
+
+        <input hidden name="Tid" value="@Model.Tid"/>
+        <input hidden name="Id" value="@Model.Id" />
+        <div class="form-group">
+            <label for="title">Title:</label>
+            <input type="text" class="form-control" id="title" placeholder="Enter title" name="title" value="@Model.Title" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="label">Label(s):</label>
+            <input type="text" class="form-control" id="label" placeholder="Enter label" name="label" value="@Model.Label" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+        </div>
+
+        <div class="form-group">
+            <label for="priority">Priority:</label>
+            <input type="text" class="form-control" id="priority" placeholder="Low,Medium,High" name="priority" value="@Model.Priority" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+        </div>
+
+       
+        <button type="submit" style="align-self:center" class="btn btn-danger">Update!!</button>
+    </form>
+</div>
+
+
+<div class="jumbotron" style="background-color:brown; color:whitesmoke; margin:50px">
+
+        <h3 style="text-align:center">Want to get hold of us?</h3>
+
+        <p style="text-align:center">Contact us at info@carteblanche.tech / (+92) 316 0416819)  </p>
+
+        <p style="text-align:center"> Copyrights 2022</p>
+
+    </div>
+
+<script>
+    // Disable form submissions if there are invalid fields
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Get the forms we want to add validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+
+    
+}  
+</script>
+

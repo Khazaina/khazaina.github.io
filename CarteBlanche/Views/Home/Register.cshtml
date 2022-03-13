@@ -1,0 +1,89 @@
+﻿@*!--form--!*@
+<div class="container" style="margin:50px">
+    <h2>Register Yourself</h2>
+
+    <form action="/Home/Register" method="post" class="needs-validation" novalidate>
+
+        <div class="form-group">
+            <label for="uname">Username:</label>
+            <input type="text" class="form-control" id="uname" placeholder="Enter name" name="name" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="mail">Email:</label>
+            <input type="email" class="form-control" id="mail" placeholder="Enter email" name="email" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+        </div>
+
+        <div class="form-group">
+            <label for="pwd">Password:</label>
+            <input type="password" class="form-control" id="pwd"  placeholder="Enter Password" name="pwd" onChange="onChange()" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+        </div>
+
+        <div class="form-group">
+            <label for="cpwd">Confirm Password:</label>
+            <input type="password" class="form-control" id="cpwd"  placeholder="Enter Confirm Password" name="cpwd" onChange="onChange()" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field/Invalid.</div>
+           
+        </div>
+
+        
+
+        <button type="submit" style="align-self:center" class="btn btn-danger" >Register!!</button>
+    </form>
+</div>
+
+<div class="jumbotron" style="background-color:brown; color:whitesmoke; margin:50px">
+
+        <h3 style="text-align:center">Want to get hold of us?</h3>
+
+        <p style="text-align:center">Contact us at info@carteblanche.tech / (+92) 316 0416819)  </p>
+
+        <p style="text-align:center"> Copyrights 2022</p>
+
+    </div>
+
+
+<script>
+    // Disable form submissions if there are invalid fields
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Get the forms we want to add validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+
+    
+function onChange() {
+  const password = document.querySelector('input[name=pwd]');
+  const confirm = document.querySelector('input[name=cpwd]');
+  if (confirm.value === password.value) {
+    confirm.setCustomValidity('');
+  } else {
+    confirm.setCustomValidity('Passwords do not match');
+  }
+}
+    
+
+</script>
+
+
+

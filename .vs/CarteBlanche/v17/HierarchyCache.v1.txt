@@ -1,0 +1,255 @@
+﻿++Solution 'CarteBlanche' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:CarteBlanche.sln
+++CarteBlanche
+i:{00000000-0000-0000-0000-000000000000}:CarteBlanche
+++Connected Services 
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:>195
+++Dependencies
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:>194
+++Properties
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\properties\
+++wwwroot
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\
+++Controllers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\controllers\
+++HomeController.cs
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\controllers\homecontroller.cs
+++Models
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\models\
+++CarteBlancheContext.cs
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\models\carteblanchecontext.cs
+++ErrorViewModel.cs
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\models\errorviewmodel.cs
+++Task.cs
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\models\task.cs
+++User.cs
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\models\user.cs
+++Views
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\
+++Home
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\
+++Contact.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\contact.cshtml
+++edit.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\edit.cshtml
+++ErrorPage.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\errorpage.cshtml
+++Index.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\index.cshtml
+++Login.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\login.cshtml
+++Privacy.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\privacy.cshtml
+++Register.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\register.cshtml
+++TodoList.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\home\todolist.cshtml
+++Shared
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\shared\
+++_Layout.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\_viewstart.cshtml
+++appsettings.json
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\appsettings.json
+++Program.cs
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\program.cs
+++No service dependencies discovered
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:>196
+++Analyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:analyzers
+++Frameworks
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:frameworks
+++Packages
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:packages
+++launchSettings.json
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\properties\launchsettings.json
+++css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\css\
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\
+++Images
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\images\
+++js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\js\
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\
+++favicon.ico
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\favicon.ico
+++_Layout.cshtml.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:>276
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:>278
+++site.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\css\site.css
+++1.jpg
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\images\1.jpg
+++2.jpg
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\images\2.jpg
+++3.jpg
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\images\3.jpg
+++site.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\js\site.js
+++bootstrap
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\
+++jquery
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery\
+++jquery-validation
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery\dist\
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery\license.txt
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{ce9a2fd3-b6ec-4bbb-b3b1-1bd4540341aa}:c:\users\dell pc\desktop\carteblanche\carteblanche\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
